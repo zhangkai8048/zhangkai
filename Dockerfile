@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/nginx:v20210115-gba0502603
+FROM k8s.gcr.io/ingress-nginx/nginx:v20210115-gba0502603
