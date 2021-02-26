@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-cross:v1.10.1-1
+FROM quay.io/opstree/redis-exporter:2.0
 MAINTAINER antmove
